@@ -2,17 +2,33 @@ From Italian-Flashcards.com
 --
 T=target
 U=unit in L'italiano dal vivo 
+t=total impressions
+a=active words
+q=words in queue
 
 Ve12.30 t460 a165
 Sa12.31 t1393 a413 q55
 Do1.1 t1437 a413 q274
 Lu1.2 Pb-Mo-Da-# t1739 a413 q168
 Mar1.3 t2282 a623 q52 UG1,UC1 TUG1-2 TUC1-2
-Mer1.4    TUG3-5 TUC3-5 TR1-2
+Mer1.4 t3323 a997 q323 UG2,UC2 TUG3-5 TUC3-5 TR1-2
 Gi1.5   TUG6-9 TUC6-9 TR3-5  
 Ve1.6    TUG10-12 TUC10-12 TR6-9
 TARGET: a1050 Liv1Fin
 Sa1.7 TU13-15   TR10-12
 Do1.8  TR all, mini-test
-L1.9   
+L1.9 t4507 a996 q271  
+Mar1.10 
+Mer1.11
+Gi1.12 t4763 a996 q385
+Ve1.13 
+-- observation: difficult to maintain >1000 words. Moving to "multimedia" but hard to review new vocab. Important to move to active vocab, and even more important (at this stage) to be able to rapidly conjugate verbs and use them in sentences. Generally speaking, I have failed to meet my higher objectives and would have ideally been at an active 2000 active vocab instead of the probably 1200 which I currently have. This is, however, extremely difficult to measure esp. given the many many cognates (and things which are not included, like numbers).  Probably need to devise a better system for measuring. Typical pattern: make plan, start with enthusiasm, get diverted (put enthusiasm into related side projects), end up exhausted. 
+Sa1.14
+Do1.15 
+L1.16   
+Mar1.10 
+ob: lots of time spend on rapid use of words and, esp. conjugation of verbs. I feel that at least the present, simple past (prossimo), and gerunds I am fairly rapid without many mistakes. I am also usually able to understand basic Italian conversations. I have purchased approximately 12 books in Italian and reviewed several. However, despite an increase in speed, I am not close to being able to keep up with native speakers. The primary limitation seems to be vocabulary, which, despite passive increase (from conversations and, esp. reading) does not include all of the normal necessary verbs and nouns. I think I must be more systematic here, although, as noted, I have not been keeping up with the online flashcard system.
+Mer1.11
+Gi1.12 
+Ve1.13 
 
