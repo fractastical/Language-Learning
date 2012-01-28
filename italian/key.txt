@@ -1,0 +1,51 @@
+
+Vocab key from Italian-Flashcards.com:
+
+T=target
+U=unit in L'italiano dal vivo 
+t=total impressions
+a=active words
+q=words in queue
+
+Grammatical Key:
+
+Grammatical key derived from sections in "Grammatica avanzata della lingua italiana" from Alma, a section is considered complete when I (self-evaluating) know the material well and have completed all associated exercises. I will rate myself in each section, on a scale of 1-5. Rough goal is to get to 2 in most categories first, then work on the details more slowly over time.
+ 
+a = rough knowledge
+b = covered and practiced once or twice
+c = covered and practiced multiple times, know common irregular aspects
+d = can use reasonably fast and with most irregular verbs
+e = can use at native speed without thinking and nearly without error 
+ 
+Sections:
+
+1 Il presente
+2 Il passato
+3 Il futuro
+4 Ausiliare avere o essere
+5 L'articulo
+6 L'avverbio
+7 La posizione dell'aggettivo
+8 Le prepositioni
+9 Il si spersonalizzante
+10 L'infinito
+11 La contruzione far fare
+12 La negazione
+13 Le alterazioni del nome
+14 I nomi irregolari
+15 Le parole strainerie 
+16 Il genere dei nomi
+17 I nomi defettivi
+18 I nomi composti
+19 I verbi pronominali
+20 I pronomi io e tu
+21 Pronomi e particelle
+22 Qualche parola difficile
+23 Il conditionale
+24 Il congiuntivo
+25 Il gerundio
+26 Il periodo ipotetico
+
+Notation:
+
+Section.Level (e.g. 1e2c3c)
