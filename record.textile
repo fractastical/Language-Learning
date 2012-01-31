@@ -41,10 +41,10 @@ Mar1.24
 Me1.25
 Gi1.26
 Ve1.27
-Sa1.28 ob: Finally finished work-related project at 11pm last night, taking rather more time than expected and meaning that I could not dedicate a lot of extra hours this past week to learning. However, as of today I believe I have resolved my long-standing and often considered problem regarding a way to track progress with respect to grammatical points, which I will provide in a new [key][italian/key.txt]. 
-Starting off at 0: [Grammar key record[current_status.txt]
+Sa1.28 ob: Finally finished work-related project at 11pm last night, taking rather more time than expected and meaning that I could not dedicate a lot of extra hours this past week to learning. However, as of today I believe I have resolved my long-standing and often considered problem regarding a way to track progress with respect to grammatical points, which I will provide in a new "key":italian/key.txt . 
+Starting off at 0: "Grammar key record":current_status.txt
 Level 2 is fine. Mixed quality of students as before, but good teaching.
-[Here is a complete list of resources][italian/resources.txt]
+"Here is a complete list of resources":italian/resources.txt
 Do1.29
 Lu1.30 op: received permission to move to Level 3 (B1) on Monday, provided successful completion of work this week.
 Ma1.31
