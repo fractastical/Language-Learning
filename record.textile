@@ -65,7 +65,10 @@ Some areas esp lacking:
 Ultimate problem is that I appear to be reaching a certain level of exhaustion simply from living in foreign land, and true immersion appears impossible at this stage. Also, I am uncertain where I stand given the somewhat unstructured environment -- although thankfully the language itself provides structure because of the need to read and understand. Plan: review.
 S2.18 t6513 a1083 q196
 ob: achieved all available basic words at app. 1180 active words. Moving to intermediate. 
-D2.19 
+D2.19 t7037 a1300 q0
+ob: new resolution to limit max acquisition in a single day at ~100 words, so as to avoid overload (e.g. make sure you know everything before moving on).
+
+
 
 
 
