@@ -68,7 +68,7 @@ ob: achieved all available basic words at app. 1180 active words. Moving to inte
 D2.19 t7037 a1300 q0
 ob: new resolution to limit max acquisition in a single day at ~100 words, so as to avoid overload (e.g. make sure you know everything before moving on).
 L2.27 New week without classes, focusing on thesis. 
-
+2.28 t7504 a1450 q637
 
 
 
