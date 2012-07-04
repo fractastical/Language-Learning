@@ -15,9 +15,10 @@ p(. Vowel: Sounds formed without contraction of any part above the glottis (i.e.
 
 p(. Semi-vowel: Sounds formed without contraction of any part above the glottis (i.e. in the mouth); cannot be a syllable by itself. 
 
-p(.	Stops (or occulsive or plosive or mute), consonants in which that the action stops all airflow: 
+p(. Stops (or occulsive or plosive or mute), consonants in which that the action stops all airflow: 
 
-p((.		Dental: formed by articulating the tongue against the upper teeth (English "d", "t")
+
+p((. 		Dental: formed by articulating the tongue against the upper teeth (English "d", "t")
 
 p((. 		Labial: formed by the lips (English "b", "m")
 
@@ -35,9 +36,10 @@ p(. Affricate: sound that starts with stop but ends in fricative (English "ch")
 
 *Additional categories:*
 
-p(.	Voiced (Sonant): sound produced with vibration of larynx   (English: "bin", "den", "gin", "gone")
+p(. Voiced (Sonant): sound produced with vibration of larynx   (English: "bin", "den", "gin", "gone")
 
-p(.	Voiceless (Surd): sound produced without vibration of larynx (English "tin," "ten," "chin," "con")
+p(. Voiceless (Surd): sound produced without vibration of larynx (English "tin," "ten," "chin," "con")
+
 
 p(. *Note:* These can combined, so that you can have a voiced dental stop, or voiceless dental fricative.
 
