@@ -2,7 +2,7 @@ In order of introduction in Perry, with paragraph number. Explanatory notes incl
 
 
 95
-s, r -> h (end of word)  NOTE: the final syllable is commonly pronounced with the vowel sound of the previous sylable. According to MW, this is because the pure "h" sound is too difficult. 
+s, r -> h (end of word)  NOTE: the final syllable is commonly pronounced with the vowel sound of the previous sylable. According to MW, this is because the pure "h" sound is difficult for many speakers of S.Asian languages to pronounce.
 
 
 104
@@ -17,6 +17,9 @@ a/aa + o/au = au
 s -> r (voiced)
 r -> s (voiceless)
 
+148 final: 
+
+final t -> d  (before voiced ex. palatals and nasals)
 
 
 as -> o (before voiced consanent or a)

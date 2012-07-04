@@ -11,29 +11,37 @@ This will, potentially, help you understand the "why" of the sandhi and this und
 
 *General Types:*
 
-	Vowel: Sounds formed without contraction of any part above the glottis (i.e. in the mouth); is capable of standing alone as a syllable. 
+p(. Vowel: Sounds formed without contraction of any part above the glottis (i.e. in the mouth); is capable of standing alone as a syllable. 
 
-	Semi-vowel: Sounds formed without contraction of any part above the glottis (i.e. in the mouth); cannot be a syllable by itself. 
+p(. Semi-vowel: Sounds formed without contraction of any part above the glottis (i.e. in the mouth); cannot be a syllable by itself. 
 
-	Stops (or occulsive or plosive), consonants in which that the action stops all airflow: 
+p(.	Stops (or occulsive or plosive or mute), consonants in which that the action stops all airflow: 
 
-		Dental: formed by articulating the tongue against the upper teeth (English "d", "t")
+p((.		Dental: formed by articulating the tongue against the upper teeth (English "d", "t")
 
-		Labial: formed by the lips (English "b", "m")
+p((. 		Labial: formed by the lips (English "b", "m")
 
-		Palatal: formed by pressing the tongue against the hard palate at the roof of the mouth (English "j")
+p((. 		Palatal: formed by pressing the tongue against the hard palate at the roof of the mouth (English "j")
+		
+p((. 		Guttural: formed from back of throat (English "k", "g")
+		
+p((. 		Click/Lingual: with tip of tongue at top of palate ("r" in very)
+		
 
-	Fricative: sound formed by forcing air through a narrow channel, as in the tongue top of the palate ("ch" in Bach) or tongue against the front teeth (english "f").
+p(. Fricative: sound formed by forcing air through a narrow channel, as in the tongue top of the palate ("ch" in Bach) or tongue against the front teeth (english "f").
+
+p(. Affricate: sound that starts with stop but ends in fricative (English "ch")
+	
 
 *Additional categories:*
 
-	Voiced (Sonant): sound produced with vibration of larynx   (English: "bin", "den", "gin", "gone")
+p(.	Voiced (Sonant): sound produced with vibration of larynx   (English: "bin", "den", "gin", "gone")
 
-	Voiceless (Surd): sound produced without vibration of larynx (English "tin," "ten," "chin," "con")
+p(.	Voiceless (Surd): sound produced without vibration of larynx (English "tin," "ten," "chin," "con")
 
-Note: These can combined, so that you can have a voiced dental stop, or voiceless dental fricative.
+p(. *Note:* These can combined, so that you can have a voiced dental stop, or voiceless dental fricative.
 
 
 *Additional Terms:*
 
-Approximants: Sound formed by forcing air through a channel, yet without the turbluence necessary to form a fricative. Essentially a lighter fricative. Sometimes used as a synonym for semi-vowel.
+p(. Approximants: Sound formed by forcing air through a channel, yet without the turbluence necessary to form a fricative. Essentially a lighter fricative. Sometimes used as a synonym for semi-vowel.
