@@ -1,0 +1,11 @@
+
+Common phrases:
+
+http://chl.anu.edu.au/_documents/spoken_sanskrit_1.pdf
+
+Thousand most common words in English:
+
+http://www.ingilish.com/1000mostcommonwords.htm
+
+(TODO: write script to look up in Sanskrit)
+

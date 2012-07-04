@@ -1,17 +1,17 @@
 
+Perry Primer, available in various formats at archive.org:
+
+http://archive.org/details/sanskritprimer00perrrich
+
 Sanskritlibrary.org
 
   - easy look up to many different dictionaries
   - find head word from declined form and v.v.
 
-Guide to transliteration styles :
-
-http://www.sanskrit-sanscrito.com.ar/en/sanskrit_sanskrit3/transliterating2.shtml
 
 Sandhi transformer (internal):
 
 http://vedicsociety.org/sanskrit/sandhi/
-
 
 Sandhi transformer (both ways):
 
@@ -24,3 +24,14 @@ http://www.sanskritweb.net/fonts
 Videos of how to write Devangari script:
 
 http://sanskrit1.ccv.brown.edu/Sanskrit/script/devchars/
+
+Online pronunciation guide (warning: not sure about reliablity):
+
+http://www.tilakpyle.com/sanskrit.htm
+
+American Sanskrit Institute:
+
+ -- has many interesting learning aids:
+
+ -- http://www.americansanskrit.com/mm5/merchant.mvc?Store_Code=amsanskrit&Screen=PROD&Product_Code=ATL_SBCD_SUB
+

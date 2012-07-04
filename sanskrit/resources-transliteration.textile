@@ -1,0 +1,23 @@
+Guide to transliteration styles :
+
+http://www.sanskrit-sanscrito.com.ar/en/sanskrit_sanskrit3/transliterating2.shtml
+
+
+Easy comparison of Devanāgarī, IAST, Harvard-Kyoto, ITRANS, and Velthuis styles:
+
+http://en.wikipedia.org/wiki/Devanagari_transliteration
+
+
+Transcription tool that supports Unicode/IAST, Velthuis, ITRANS or Harvard-Kyoto: 
+
+http://www.ashtangayoga.info/philosophy/transkription-tool/
+
+
+Google transliterator (does not accept IAST, format unclear):
+
+http://www.google.com/transliterate/sanskrit
+
+
+Practice transliterating from Scharf (proctor of sanskritlibrary.org) @ Brown:
+
+http://sanskrit1.ccv.brown.edu/cgi-skt/SanskritLessons/index.pl

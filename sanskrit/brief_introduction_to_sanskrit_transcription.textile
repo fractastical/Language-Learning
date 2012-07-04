@@ -1,0 +1,8 @@
+Standard style is IAST
+
+Perry differs from IAST in the following respects:
+
+	āu instead of au
+	ç instead of ś 
+
+

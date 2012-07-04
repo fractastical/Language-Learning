@@ -1,7 +1,9 @@
+In order of introduction in Perry, with paragraph number. Explanatory notes includes from W. Sidney Allen's book Sandhi where additional explanation may be helpful.
 
 
 95
-s, r -> h (end of word)
+s, r -> h (end of word)  NOTE: the final syllable is commonly pronounced with the vowel sound of the previous sylable. According to MW, this is because the pure "h" sound is too difficult. 
+
 
 104
 a/aa + a = aa
@@ -12,9 +14,9 @@ a/aa + e = aai
 a/aa + o/au = au
 
 116
-s -> r (sonant)
-r -> s (surd)
+s -> r (voiced)
+r -> s (voiceless)
 
 
 
-as -> o (before sonant consanent or a)
+as -> o (before voiced consanent or a)
