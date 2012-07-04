@@ -1,0 +1,20 @@
+
+
+95
+s, r -> h (end of word)
+
+104
+a/aa + a = aa
+a/aa + i/ii = e
+a/aa + u/uu = o
+a/aa + r = ar
+a/aa + e = aai
+a/aa + o/au = au
+
+116
+s -> r (sonant)
+r -> s (surd)
+
+
+
+as -> o (before sonant consanent or a)

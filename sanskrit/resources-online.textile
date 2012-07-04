@@ -1,0 +1,26 @@
+
+Sanskritlibrary.org
+
+  - easy look up to many different dictionaries
+  - find head word from declined form and v.v.
+
+Guide to transliteration styles :
+
+http://www.sanskrit-sanscrito.com.ar/en/sanskrit_sanskrit3/transliterating2.shtml
+
+Sandhi transformer (internal):
+
+http://vedicsociety.org/sanskrit/sandhi/
+
+
+Sandhi transformer (both ways):
+
+http://flaez.ch/cgi-bin/sandhi.pl
+
+Discussion of fonts:
+
+http://www.sanskritweb.net/fonts
+
+Videos of how to write Devangari script:
+
+http://sanskrit1.ccv.brown.edu/Sanskrit/script/devchars/
