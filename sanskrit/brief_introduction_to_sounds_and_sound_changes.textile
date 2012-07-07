@@ -7,6 +7,7 @@ However, given that Sanskrit and especially has a large number of sound changes 
 
 This will, potentially, help you understand the "why" of the sandhi and this understanding may facilitate use. Moreover, it will be helpful, should you learn other later Indo-European languages, to understand the types of sound changes that occur as a family of languages evolves. 
 
+
 *Here are the types of sounds you will find in Sanskrit:*
 
 *General Types:*
@@ -26,7 +27,7 @@ p((. 		Palatal: formed by pressing the tongue against the hard palate at the roo
 		
 p((. 		Guttural: formed from back of throat (English "k", "g")
 		
-p((. 		Click/Lingual: with tip of tongue at top of palate ("r" in very)
+p((. 		Click (In Perry, Lingual): with tip of tongue at top of palate ("r" in very)
 		
 
 p(. Fricative: sound formed by forcing air through a narrow channel, as in the tongue top of the palate ("ch" in Bach) or tongue against the front teeth (english "f").

@@ -1,9 +1,7 @@
 In order of introduction in Perry, with paragraph number. Explanatory notes includes from W. Sidney Allen's book Sandhi where additional explanation may be helpful.
 
-
 95
-s, r -> h (end of word)  NOTE: the final syllable is commonly pronounced with the vowel sound of the previous sylable. According to MW, this is because the pure "h" sound is difficult for many speakers of S.Asian languages to pronounce.
-
+final s/r -> h (end of phrase or before k/kh/p/ph/ç/s) NOTE: the final syllable is commonly pronounced with the vowel sound of the previous sylable. According to MW, this is because the pure "h" sound is difficult for many speakers of S.Asian languages to pronounce.
 
 104
 a/aa + a = aa
@@ -17,9 +15,107 @@ a/aa + o/au = au
 s -> r (voiced)
 r -> s (voiceless)
 
-148 final: 
+118
+final as -> o (before voiced consonant or a) NOTE: initial "a" in following word,if exists,  is dropped and replaced with apostrophe
 
-final t -> d  (before voiced ex. palatals and nasals)
+120
+final as -> a (before vowel other than a)
+
+121 
+final aas -> aa (before any voiced vowel or consonant)
+
+122
+final r -> h
+
+123
+rr -> elongated vowel + r (e.g. punar raamah -> punaa raamah)
+
+129
+final s -> ç (before c, ch)
+final s -> s. (before t.,t.h) extremely rare
+
+138
+final n -> ñ (before j and ç), in second case usually also ç -> ch
+
+139
+final n -> ňl (before l) (e.g. taan lokaan -> taaňl lokaan) 
+
+140 
+final n + (c/ch/ṭ/ṭh/t/th) -> (see below) + n (anusvara)  (e.g. taan ca -> taaṅç ca) 
+c/ch -> ç
+ṭ/ṭh -> ṣ
+t/th -> s
+
+EX: voiceless stop (palatal, lingual, dental) -> corresponding sibilant
+
+149
+final t + c/ch/j/jh/ṭ/ṭh/ḍ/ḍh/l -> doubles  (e.g. meghaat jalam -> meghaaj jalam)
+
+NOTE: Appears to be an error here AHHHHHH
+
+EX: palatals + linguals + l
+
+148 final
+final t -> g/gh/d/dh/b/bh -> d
+
+EX: before voiced ex. palatals and nasals
+
+150 
+final t + ç -> c + ch (e.g. nrpaat çatruh -> nrpaac chatruh)
+
+151 
+final t + nn/ñ/ṇ/n/m (nasals) -> n + nasal  
+NOTE: in rare cases instead t -> d
+
+156
+final short/long vowel + initial short/long vowel -> vowel
+e.g.
+i/ii + i/ii -> ii
+
+157
+i/ii/u/uu/ṛ + other vowel/dipthong -> corresponding semivowel (y/v/r)
+(e.g. tiṣṭhatii atra -> tiṣṭhaty atra)
+
+158
+final e/o + a -> e/o + nul (a disappears)
+
+159 
+final i/u of dipthong -> y/v
+EXCEPT: when 158 applies
+
+160
+final long vowel (e/) -> shortened form
+
+161
+Exceptions to 160:
+
+(1) Dual endings do not change.
+(2) Final, or only, vowel of an interjection (he indra)
+
+164
+final aai and au -> aay/aav (before vowel/dipthong).  y/v may be dropped.
+
+165
+words (aa/ma) to/don't  + initial ch -> cch
+RARE
+
+166 
+final r + initial n -> r + ṅ  
+
+167
+anu
+ava
 
 
-as -> o (before voiced consanent or a)
+
+n + n
+
+
+
+
+
+
+..
+22 rules
+
+
