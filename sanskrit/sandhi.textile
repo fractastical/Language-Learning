@@ -68,7 +68,7 @@ final t + nn/ñ/ṇ/n/m (nasals) -> n + nasal
 NOTE: in rare cases instead t -> d
 
 156
-final short/long vowel + initial short/long vowel -> vowel
+final short/long vowel + initial short/long vowel -> long vowel
 e.g.
 i/ii + i/ii -> ii
 
@@ -77,7 +77,7 @@ i/ii/u/uu/ṛ + other vowel/dipthong -> corresponding semivowel (y/v/r)
 (e.g. tiṣṭhatii atra -> tiṣṭhaty atra)
 
 158
-final e/o + a -> e/o + nul (a disappears)
+final e/o + a -> e/o + nil (a disappears)
 
 159 
 final i/u of dipthong -> y/v
